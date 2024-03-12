@@ -36,7 +36,7 @@ As you dive into this exploration, keep in mind that each recommendation you mak
 To get you started, here are some questions you might consider:
 
 * What types of content are available in different countries?
-* How has the number of movies released per year changed over the last few decades?
+* How many number of movies released per year changed over the last few decades?
 * Compare TV shows to movies. Which dominates the platform?
 * When is the best time to launch a TV show?
 * Analyze the actors and directors behind different types of content.

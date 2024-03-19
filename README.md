@@ -1,5 +1,3 @@
-# Netflix-Data-Exploration-and-Visualization
-Scaler DSML: Business Case: Netflix - Data Exploration and Visualization
 # Netflix Data Exploration and Visualization 📊
 ![Netflix logo](https://github.com/santhosh-spark/Business-Case-Netflix--Data-Exploration-and-Visualization/assets/73495628/21f12510-5d3a-46de-9203-355c1b19684c)
 

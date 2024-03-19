@@ -1,4 +1,4 @@
-# Business-Case-Netflix--Data-Exploration-and-Visualization
+# Netflix-Data-Exploration-and-Visualization
 Scaler DSML: Business Case: Netflix - Data Exploration and Visualization
 # Netflix Data Exploration and Visualization 📊
 ![Netflix logo](https://github.com/santhosh-spark/Business-Case-Netflix--Data-Exploration-and-Visualization/assets/73495628/21f12510-5d3a-46de-9203-355c1b19684c)
@@ -8,7 +8,7 @@ Welcome to the Netflix Data Exploration and Visualization project! 🎉 In this 
 The objective of this project is to analyze the given Netflix dataset and generate insights that could help Netflix in deciding which type of shows/movies to produce and how they can grow the business in different countries.
 
 ## About Netflix 🍿
-Netflix needs no introduction – it's a global powerhouse in the realm of media and video streaming. With over 10,000 movies and TV shows at your fingertips, and a staggering 222 million subscribers worldwide as of mid-2021, it's the go-to destination for binge-watching your favorite content.
+Netflix needs no introduction – it's a global powerhouse in the realm of media and video streaming. With over 10,000 movies and TV shows at your fingertips, and a staggering 222 million subscribers worldwide as of mid-2021, it's the go-to destination for binge-watching your favourite content.
 
 ## Business Problem 📈
 Our mission is crystal clear: analyze Netflix's treasure trove of data to help them make informed decisions on what types of shows and movies to produce, and how to expand their business across different countries. We're here to provide data-driven insights, not personal opinions or anecdotes.
